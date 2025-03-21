@@ -1,4 +1,4 @@
-if (window.location.href == "https://www.instagram.com/") {
+/*if (window.location.href == "https://www.instagram.com/") {
   let countdown = 150;
   let countdownTimer = setInterval(() => {
     document.title = `${countdown} sec`;
@@ -9,3 +9,4 @@ if (window.location.href == "https://www.instagram.com/") {
     }
   }, 1000);
 }
+*/
